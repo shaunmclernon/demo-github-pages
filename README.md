@@ -22,7 +22,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 <summary><h2>Step 0: Hacking Markdown</h2></summary>
 
 _Does this work in github markdown :tada:!_
-
+</details>
 
 <!--step0
 
