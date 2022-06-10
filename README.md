@@ -18,6 +18,12 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Do not use quotes on the <details> tag attributes.
 -->
 
+<details id=0>
+<summary><h2>Step 0: Hacking Markdown</h2></summary>
+
+_Does this work in github markdown :tada:!_
+</details>
+
 <!--step0
 
 With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
